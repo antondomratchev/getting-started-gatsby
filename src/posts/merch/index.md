@@ -9,7 +9,7 @@ blog: false
 ---
 
 We got t-shirts
-
+![Shirt](./shirt.jpg)
 We got stickers
-
+![Stickers](./stickers.jpg)
 We now got even underwear!
