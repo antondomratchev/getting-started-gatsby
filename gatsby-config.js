@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Fresh`,
-    description: `GatsbyJS starter blog with the Fresh theme.`,
-    author: `@mishal23`,
-    siteUrl: `https://gatsby-starter-fresh.netlify.app`,
+    title: `Getting Started with Gatsby`,
+    description: `Gatsby Demo site for San Antonio Web Dev meetup`,
+    author: `@antondomratchev`,
+    siteUrl: `https://getting-started-gastby.netlify.app`,
     keywords: [
       "mishal23",
       "Mishal Shah",
@@ -11,10 +11,10 @@ module.exports = {
       "Fresh",
       "themes",
       "blog",
-      "PWA", 
-      "disqus", 
-      "Google Analytics", 
-      "markdown", 
+      "PWA",
+      "disqus",
+      "Google Analytics",
+      "markdown",
       "code highlighting",
       "SEO",
       "social media",
